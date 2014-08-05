@@ -1,0 +1,3 @@
+-buildpath:  \
+	WebracerTrack;version=latest,\
+	osgi.core;version=5.0

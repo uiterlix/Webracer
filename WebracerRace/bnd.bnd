@@ -1,0 +1,9 @@
+Private-Package:  \
+	net.slintes.webracer.race.impl
+-buildpath:  \
+	osgi.core;version=5.0,\
+	WebracerTrack;version=latest,\
+	WebracerDB;version=latest,\
+	org.mockito.mockito-all
+Export-Package:  \
+	net.slintes.webracer.race

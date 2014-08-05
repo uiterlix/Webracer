@@ -1,0 +1,6 @@
+Private-Package:  \
+	net.slintes.webracer.db.file,\
+	net.slintes.webracer.db.file.impl
+-buildpath:  \
+	WebracerDB;version=latest,\
+	osgi.core;version=5.0
